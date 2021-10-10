@@ -1,4 +1,4 @@
-let DownDate = new Date('October 14, 2021 3:0:0').getTime();
+let DownDate = new Date('October 14, 2021 15:0:0').getTime();
 
 let days_h = document.getElementById('day'),
     hours_h = document.getElementById('hour'),
